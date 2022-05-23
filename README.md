@@ -2,8 +2,8 @@
 
 #### www.m-smith.info
 
-#### Contact me on LinkedIn:
-<a href="https://www.python.org/](https://www.linkedin.com/in/onticinc/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="LinkedIn Icon" width="50px" height="50px"></a>
+#### Contact me:
+<a href="https://www.python.org/](https://www.linkedin.com/in/onticinc/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="LinkedIn Icon" width="75px" height="75px"></a>
 
 #### Tech Stack:
 <a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="21px" height="21px"></a>
