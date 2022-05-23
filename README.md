@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="21px" height="21px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
@@ -57,32 +57,27 @@
 <a href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="21px" height="21px"></a>
 <a href="https://github.com/enzymejs/enzyme" title="Enzyme"><img src="https://github.com/get-icon/geticon/raw/master/icons/enzyme.svg" alt="Enzyme" width="21px" height="21px"></a>
 <a href="https://www.cypress.io/" title="Cypress"><img src="https://github.com/get-icon/geticon/raw/master/icons/cypress.svg" alt="Cypress" width="21px" height="21px"></a>
-<a href="https://nightwatchjs.org/" title="Nightwatch.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nightwatch.svg" alt="Nightwatch.js" width="21px" height="21px"></a>
-<a href="https://circleci.com/" title="CircleCI"><img src="https://github.com/get-icon/geticon/raw/master/icons/circleci.svg" alt="CircleCI" width="21px" height="21px"></a>
-<a href="https://codecov.io/" title="Codecov"><img src="https://github.com/get-icon/geticon/raw/master/icons/codecov.svg" alt="Codecov" width="21px" height="21px"></a>
+
+
+
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
-<a href="https://www.sublimetext.com/" title="Sublime Text"><img src="https://github.com/get-icon/geticon/raw/master/icons/sublime-text.svg" alt="Sublime Text" width="21px" height="21px"></a>
-<a href="https://www.gatsbyjs.com/" title="Gatsby"><img src="https://github.com/get-icon/geticon/raw/master/icons/gatsby.svg" alt="Gatsby" width="21px" height="21px"></a>
-<a href="https://gohugo.io/" title="Hugo"><img src="https://github.com/get-icon/geticon/raw/master/icons/hugo-icon.svg" alt="Hugo" width="21px" height="21px"></a>
+
 <a href="https://wordpress.org/" title="WordPress"><img src="https://github.com/get-icon/geticon/raw/master/icons/wordpress-icon.svg" alt="WordPress" width="21px" height="21px"></a>
-<a href="https://www.apache.org/" title="Apache"><img src="https://github.com/get-icon/geticon/raw/master/icons/apache.svg" alt="Apache" width="21px" height="21px"></a>
+
 <a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="21px" height="21px"></a>
-<a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Microsoft Azure" width="21px" height="21px"></a>
+
 <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="21px" height="21px"></a>
-<a href="https://www.elastic.co/products/elasticsearch" title="Elasticsearch"><img src="https://github.com/get-icon/geticon/raw/master/icons/elasticsearch.svg" alt="Elasticsearch" width="21px" height="21px"></a>
+
 <a href="https://www.cloudflare.com/" title="Cloudflare"><img src="https://github.com/get-icon/geticon/raw/master/icons/cloudflare.svg" alt="Cloudflare" width="21px" height="21px"></a>
-<a href="https://openid.net/" title="OpenID"><img src="https://github.com/get-icon/geticon/raw/master/icons/openid-icon.svg" alt="OpenID" width="21px" height="21px"></a>
-<a href="https://deno.land/" title="Deno"><img src="https://github.com/get-icon/geticon/raw/master/icons/deno.svg" alt="Deno" width="21px" height="21px"></a>
+
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
+
 <a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React Native" width="21px" height="21px"></a>
-<a href="https://www.embarcadero.com/products/delphi" title="Delphi"><img src="https://github.com/get-icon/geticon/raw/master/icons/delphi.svg" alt="Delphi" width="21px" height="21px"></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="21px" height="21px"></a>
-<a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="21px" height="21px"></a>
-<a href="https://www.r-project.org/" title="R"><img src="https://github.com/get-icon/geticon/raw/master/icons/r-lang.svg" alt="R" width="21px" height="21px"></a>
-<a href="https://nsis.sourceforge.io/" title="NSIS"><img src="https://github.com/get-icon/geticon/raw/master/icons/nsis.svg" alt="NSIS" width="21px" height="21px"></a>
+
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
+
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
-<a href="https://inkscape.org/" title="Inkscape"><img src="https://github.com/get-icon/geticon/raw/master/icons/inkscape.svg" alt="Inkscape" width="21px" height="21px"></a>
+
 
 
 
@@ -99,4 +94,46 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+
+<!-- unused icons
+<a href="https://nightwatchjs.org/" title="Nightwatch.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nightwatch.svg" alt="Nightwatch.js" width="21px" height="21px"></a>
+
+<a href="https://circleci.com/" title="CircleCI"><img src="https://github.com/get-icon/geticon/raw/master/icons/circleci.svg" alt="CircleCI" width="21px" height="21px"></a>
+
+<a href="https://codecov.io/" title="Codecov"><img src="https://github.com/get-icon/geticon/raw/master/icons/codecov.svg" alt="Codecov" width="21px" height="21px"></a>
+
+<a href="https://www.gatsbyjs.com/" title="Gatsby"><img src="https://github.com/get-icon/geticon/raw/master/icons/gatsby.svg" alt="Gatsby" width="21px" height="21px"></a>
+
+<a href="https://gohugo.io/" title="Hugo"><img src="https://github.com/get-icon/geticon/raw/master/icons/hugo-icon.svg" alt="Hugo" width="21px" height="21px"></a>
+
+<a href="https://www.apache.org/" title="Apache"><img src="https://github.com/get-icon/geticon/raw/master/icons/apache.svg" alt="Apache" width="21px" height="21px"></a>
+
+<a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Microsoft Azure" width="21px" height="21px"></a>
+
+<a href="https://www.elastic.co/products/elasticsearch" title="Elasticsearch"><img src="https://github.com/get-icon/geticon/raw/master/icons/elasticsearch.svg" alt="Elasticsearch" width="21px" height="21px"></a>
+
+ <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
+
+<a href="https://inkscape.org/" title="Inkscape"><img src="https://github.com/get-icon/geticon/raw/master/icons/inkscape.svg" alt="Inkscape" width="21px" height="21px"></a>
+
+<a href="https://nsis.sourceforge.io/" title="NSIS"><img src="https://github.com/get-icon/geticon/raw/master/icons/nsis.svg" alt="NSIS" width="21px" height="21px"></a>
+
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="21px" height="21px"></a>
+
+<a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="21px" height="21px"></a>
+
+<a href="https://www.r-project.org/" title="R"><img src="https://github.com/get-icon/geticon/raw/master/icons/r-lang.svg" alt="R" width="21px" height="21px"></a>
+
+<a href="https://www.embarcadero.com/products/delphi" title="Delphi"><img src="https://github.com/get-icon/geticon/raw/master/icons/delphi.svg" alt="Delphi" width="21px" height="21px"></a>
+
+
+<a href="https://openid.net/" title="OpenID"><img src="https://github.com/get-icon/geticon/raw/master/icons/openid-icon.svg" alt="OpenID" width="21px" height="21px"></a>
+
+<a href="https://deno.land/" title="Deno"><img src="https://github.com/get-icon/geticon/raw/master/icons/deno.svg" alt="Deno" width="21px" height="21px"></a>
+
+<a href="https://www.sublimetext.com/" title="Sublime Text"><img src="https://github.com/get-icon/geticon/raw/master/icons/sublime-text.svg" alt="Sublime Text" width="21px" height="21px"></a>
+
+
 -->
