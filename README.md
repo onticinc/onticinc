@@ -74,7 +74,7 @@ const michael = {
 <hr />
 
 
-## 📈 my github stats:
+## 📈 My github stats:
 
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=onticinc&custom_title=Mike's%20activity%20graph&theme=github-light&hide_border=false)](https://github.com/onticinc/github-readme-activity-graph)
