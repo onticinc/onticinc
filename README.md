@@ -4,6 +4,8 @@
 
 <a href="https://www.linkedin.com/in/onticinc/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="LinkedIn Icon" width="75px" height="75px"></a>
 
+
+
 ## Languages and Tools:
 
 <a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="40px" height="40px"></a>
@@ -32,6 +34,8 @@
 <a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React Native" width="40px" height="40px"></a>
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="40px" height="40px"></a>
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="40px" height="40px"></a>
+
+
 
 
 ## 📈 my github stats:
