@@ -11,7 +11,7 @@
 
 Innovative Software Engineer with experience developing full stack applications and websites. 
 
-Capable of quickly learning and mastering new technologies and working in both team and self-directed settings. Adept at designing and building applications with usability and high performance in mind. 
+Capable of quickly learning and mastering new technologies while working in both team and self-directed settings. Adept at designing and building applications with usability and high performance in mind. 
 
 ```javascript
 const michael = {
