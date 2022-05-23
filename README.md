@@ -11,7 +11,7 @@ Innovative Software Engineer with experience developing full stack Software appl
 Capable of quickly learning and mastering new technologies and working in both team and self-directed settings. Adept at designing and building applications with usability and high performance in mind. 
 
 ```javascript
-const mike = {
+const michael = {
   pronouns: "he" | "him",
   code: [Python, Django, Javascript, React, HTML, CSS],
   Learning: [Github Actions, Docker, CICD Pipelines],
