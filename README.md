@@ -18,8 +18,8 @@ const michael = {
   code: [Python, Django, Javascript, React, HTML, Tailwind-CSS],
   studying: [Github Actions, Docker, CICD Pipelines],
   communities: {
-                    Alumni: "General Assembly Global Members",
-                    coHost_Partner: "Eggs The Podcast",
+                    alumni: "General Assembly Global Members",
+                    coHost: "Eggs The Podcast",
                     member: "Frontend Mentor"
                 },
   challenge: "I am doing the #100DaysOfCode challenge focused on Python and Django",
