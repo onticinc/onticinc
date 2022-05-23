@@ -1,13 +1,13 @@
 <h3 align="center">
   Welcome to my profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 </h3>
 
 <hr />
 
 ## About Me:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=600&lines=Full+Stack+Web+and+App+Developer;Co-Host+and+Partner+at+%22Eggs+The+Podcast%22;Audio+Engineer;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=600&lines=Full+Stack+Web+and+App+Developer;Co-Host+and+Partner+at+%22Eggs+The+Podcast%22;Audio+Engineer;Lifelong+Learner;Entertainer)](https://git.io/typing-svg)
 
 Innovative Software Engineer with experience developing full stack Software applications. 
 
@@ -29,9 +29,15 @@ const michael = {
 
 <hr />
 
-## Contact me:
+## Websites | LinkedIn:
 
 #### www.m-smith.info 
+
+#### www.eggscast.com
+
+#### www.audiostarinc.com
+
+#### www.djontic.com 
 
 <a href="https://www.linkedin.com/in/onticinc/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="LinkedIn Icon" width="75px" height="75px"></a>
 
