@@ -15,7 +15,8 @@ Capable of quickly learning and mastering new technologies while working in both
 
 ```javascript
 const michael = {
-  code: [Python, Django, Javascript, React, HTML, Tailwind-CSS],
+  pronouns: [He, Him],
+  focus: [Python, Django, Javascript, React, TailwindCSS],
   studying: [Github Actions, Docker, CICD Pipelines],
   communities: {
                     alumni: "General Assembly Global Members",
