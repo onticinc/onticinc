@@ -1,6 +1,8 @@
 ## About Me:
 
-Innovative Software Engineer with experience developing full stack Software applications. Capable of quickly learning and mastering new technologies and working in both team and self-directed settings. Adept at designing and building applications with usability and high performance in mind. 
+Innovative Software Engineer with experience developing full stack Software applications. 
+
+Capable of quickly learning and mastering new technologies and working in both team and self-directed settings. Adept at designing and building applications with usability and high performance in mind. 
 
 ## Languages and Tools:
 
