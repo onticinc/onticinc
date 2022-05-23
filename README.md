@@ -1,8 +1,8 @@
 ### Michael Smith
 
-## www.m-smith.info
+#### www.m-smith.info
 
-#### 📫 How to reach me:
+#### Contact me on LinkedIn:
 <a href="https://www.python.org/](https://www.linkedin.com/in/onticinc/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="LinkedIn Icon" width="50px" height="50px"></a>
 
 #### Tech Stack:
