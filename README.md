@@ -76,15 +76,12 @@ const michael = {
 
 ## 📈 my github stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=onticinc&show_icons=true&theme=gotham" alt="onticinc" />
-
-
-<hr />
-
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=onticinc&custom_title=Mike's%20activity%20graph&theme=github-light&hide_border=false)](https://github.com/onticinc/github-readme-activity-graph)
 
 <hr />
+
+<img src="https://github-readme-stats.vercel.app/api?username=onticinc&show_icons=true&theme=gotham" alt="onticinc" />
 
 
 <!-- ## Cheatsheets:
