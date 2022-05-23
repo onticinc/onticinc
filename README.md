@@ -5,8 +5,7 @@
 
 <hr />
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1CF715&lines=Full+Stack+Software+Engineer;Audio+Engineer;Co-Host+%2F+Partner+at+Eggs+The+Podcast;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&multiline=true&width=600&lines=Full+Stack+Web+and+App+Developer;Co-Host+and+Partner+at+%22Eggs+The+Podcast%22;Audio+Engineer;Lifelong+Learner)](https://git.io/typing-svg)
 
 <hr />
 
