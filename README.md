@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=600&lines=Full+Stack+Web+and+App+Developer;Co-Host+and+Partner+at+%22Eggs+The+Podcast%22;Audio+Engineer;Lifelong+Learner;Entertainer)](https://git.io/typing-svg)
 
-Innovative Software Engineer with experience developing full stack Software applications. 
+Innovative Software Engineer with experience developing full stack software applications and websites. 
 
 Capable of quickly learning and mastering new technologies and working in both team and self-directed settings. Adept at designing and building applications with usability and high performance in mind. 
 
