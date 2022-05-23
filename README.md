@@ -10,11 +10,11 @@ const mike = {
   code: [Python, Django, Javascript, React, HTML, CSS],
   Learning: [Github Actions, Docker, CICD Pipelines],
   communities: {
-                        member: "Frontend Mentor",
                         Alumni: "General Assembly Global Members",
-                        coHost_Partner: "Eggs The Podcast"
+                        coHost_Partner: "Eggs The Podcast",
+                        member: "Frontend Mentor"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on Python and Django"
+  challenge: "I am doing the #100DaysOfCode challenge focused on Python and Django"
 }
 ```
 
