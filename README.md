@@ -15,15 +15,14 @@ Capable of quickly learning and mastering new technologies and working in both t
 
 ```javascript
 const michael = {
-  pronouns: "he" | "him",
-  code: [Python, Django, Javascript, React, HTML, CSS],
-  Learning: [Github Actions, Docker, CICD Pipelines],
+  code: [Python, Django, Javascript, React, HTML, Tailwind-CSS],
+  studying: [Github Actions, Docker, CICD Pipelines],
   communities: {
-                        Alumni: "General Assembly Global Members",
-                        coHost_Partner: "Eggs The Podcast",
-                        member: "Frontend Mentor"
-                      },
-  challenge: "I am doing the #100DaysOfCode challenge focused on Python and Django"
+                    Alumni: "General Assembly Global Members",
+                    coHost_Partner: "Eggs The Podcast",
+                    member: "Frontend Mentor"
+                },
+  challenge: "I am doing the #100DaysOfCode challenge focused on Python and Django",
 }
 ```
 
