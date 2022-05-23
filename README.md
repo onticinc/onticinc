@@ -5,11 +5,11 @@
 
 <hr />
 
-<span align="center">
+<p align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=600&lines=Full+Stack+Web+and+App+Developer;Co-Host+and+Partner+at+%22Eggs+The+Podcast%22;Audio+Engineer;Lifelong+Learner)](https://git.io/typing-svg)
   
-</span>
+</p>
 
 <hr />
 
