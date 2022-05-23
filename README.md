@@ -4,6 +4,22 @@ Innovative Software Engineer with experience developing full stack Software appl
 
 Capable of quickly learning and mastering new technologies and working in both team and self-directed settings. Adept at designing and building applications with usability and high performance in mind. 
 
+```javascript
+const mike = {
+  pronouns: "he" | "him",
+  code: [Python, Django, Javascript, React, HTML, CSS],
+  tools: [Github Actions, Docker, CICD Pipelines],
+  techCommunities: {
+                        member: "Frontend Mentor",
+                        Alumni: "General Assembly",
+                        Co-Host: "Eggs The Podcast"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on Python and Django"
+}
+```
+
+
+
 ## Languages and Tools:
 
 <a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="40px" height="40px"></a>
@@ -53,7 +69,6 @@ Capable of quickly learning and mastering new technologies and working in both t
      
 | URL      |
 | ----------- |
-| [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)         |
 | [Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet)     |
 | [Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet)         |
 | [JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet)             |
@@ -64,6 +79,7 @@ Capable of quickly learning and mastering new technologies and working in both t
 | [SQLite-Cheatsheet](https://github.com/lifeparticle/SQLite-Cheatsheet)     |
 | [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) |
 | [Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet)           |
+| [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)         |
 
 <!--
 **onticinc/onticinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
