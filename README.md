@@ -7,7 +7,7 @@
 
 ## About Me:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=6000&width=600&lines=Full+Stack+Web+and+App+Developer;Co-Host+%40+%22Eggs+The+Podcast%22++++;Audio+Engineer+%7C+Video+Editor;Lifelong+Learner+%7C+Educator;Promoter+%7C+Entertainer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=6000&width=600&lines=Full+Stack+Web+and+App+Developer;Co-Host+%7C+Partner+%40+%22Eggs+The+Podcast%22++++;Audio+Engineer+%7C+Video+Editor;Lifelong+Learner+%7C+Educator;Promoter+%7C+Entertainer)](https://git.io/typing-svg)
 
 Innovative Software Engineer with experience developing full stack applications and websites. 
 
