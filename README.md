@@ -91,17 +91,17 @@ const michael = {
      
 | URL      |
 | ----------- |
-| [Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet)     |
-| [Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet)         |
-| [JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet)             |
-| [JSON-Cheatsheet](https://github.com/lifeparticle/JSON-Cheatsheet)         |
-| [Vercel-Cheatsheet](https://github.com/lifeparticle/Vercel-Cheatsheet)     |
-| [MySQL-Snippets](https://github.com/lifeparticle/MySQL-Snippets)           |
-| [PostgreSql-Snippets](https://github.com/lifeparticle/PostgreSql-Snippets) |
-| [SQLite-Cheatsheet](https://github.com/lifeparticle/SQLite-Cheatsheet)     |
-| [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) |
-| [Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet)           |
-| [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)         |
+| [Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet)                                      |
+| [Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet)                                          |
+| [JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet)                                              |
+| [JSON-Cheatsheet](https://github.com/lifeparticle/JSON-Cheatsheet)                                          |
+| [Vercel-Cheatsheet](https://github.com/lifeparticle/Vercel-Cheatsheet)                                      |
+| [MySQL-Snippets](https://github.com/lifeparticle/MySQL-Snippets)                                            |
+| [PostgreSql-Snippets](https://github.com/lifeparticle/PostgreSql-Snippets)                                  |
+| [SQLite-Cheatsheet](https://github.com/lifeparticle/SQLite-Cheatsheet)                                      |
+| [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet)                                  |
+| [Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet)                                            |
+| [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)                                          |
 
 <!--
 **onticinc/onticinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
