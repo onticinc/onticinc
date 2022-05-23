@@ -19,7 +19,6 @@
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="40px" height="40px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="40px" height="40px"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="40px" height="40px"></a>
-<a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="40px" height="40px"></a>
 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="40px" height="40px"></a>
 
 <a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" alt="Yarn" width="40px" height="40px"></a>
@@ -43,7 +42,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=onticinc&show_icons=true&theme=gotham" alt="onticinc" />
 
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=onticinc&custom_title=Mike's%20activity%20graph&theme=github-dark&hide_border=true)](https://github.com/onticinc/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=onticinc&custom_title=Mike's%20activity%20graph&theme=github-light&hide_border=false)](https://github.com/onticinc/github-readme-activity-graph)
 
 <!--
 **onticinc/onticinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
