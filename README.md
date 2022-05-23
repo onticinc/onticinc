@@ -3,6 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<hr />
 
 ## About Me:
 
@@ -24,11 +25,14 @@ const michael = {
 }
 ```
 
+<hr />
+
 ## Contact me:
 
 #### www.m-smith.info 
 
 <a href="https://www.linkedin.com/in/onticinc/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="LinkedIn Icon" width="75px" height="75px"></a>
+
 
 <hr />
 
@@ -68,7 +72,12 @@ const michael = {
 <img src="https://github-readme-stats.vercel.app/api?username=onticinc&show_icons=true&theme=gotham" alt="onticinc" />
 
 
+<hr />
+
+
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=onticinc&custom_title=Mike's%20activity%20graph&theme=github-light&hide_border=false)](https://github.com/onticinc/github-readme-activity-graph)
+
+<hr />
 
 
 ## Cheatsheets:
