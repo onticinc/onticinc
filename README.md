@@ -1,11 +1,3 @@
-## Contact me:
-
-#### www.m-smith.info 
-
-<a href="https://www.linkedin.com/in/onticinc/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="LinkedIn Icon" width="75px" height="75px"></a>
-
-
-
 ## Languages and Tools:
 
 <a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="40px" height="40px"></a>
@@ -43,6 +35,15 @@
 
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=onticinc&custom_title=Mike's%20activity%20graph&theme=github-light&hide_border=false)](https://github.com/onticinc/github-readme-activity-graph)
+
+
+## Contact me:
+
+#### www.m-smith.info 
+
+<a href="https://www.linkedin.com/in/onticinc/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="LinkedIn Icon" width="75px" height="75px"></a>
+
+
 
 <!--
 **onticinc/onticinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
