@@ -78,7 +78,7 @@ const michael = {
 ## 📈 My github stats:
 
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=onticinc&custom_title=Mike's%20activity%20graph&theme=react-darkt&hide_border=false)](https://github.com/onticinc/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=onticinc&custom_title=Mike's%20activity%20graph&theme=react-dark&hide_border=false)](https://github.com/onticinc/github-readme-activity-graph)
 
 <hr />
 
