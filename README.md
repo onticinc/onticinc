@@ -43,7 +43,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=onticinc&show_icons=true&theme=gotham" alt="onticinc" />
 
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=onticincx&custom_title=Mike's%20activity%20graph&theme=github-dark&hide_border=true)](https://github.com/onticinc/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=onticinc&custom_title=Mike's%20activity%20graph&theme=github-dark&hide_border=true)](https://github.com/onticinc/github-readme-activity-graph)
 
 <!--
 **onticinc/onticinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
