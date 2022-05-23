@@ -32,7 +32,6 @@
 <a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React Native" width="40px" height="40px"></a>
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="40px" height="40px"></a>
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="40px" height="40px"></a>
-<a href="https://www.adobe.com/products/premier.html" title="Adobe Premier"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-premier.svg" alt="Adobe Premier" width="40px" height="40px"></a>
 
 
 
