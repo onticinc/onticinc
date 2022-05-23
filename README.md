@@ -17,7 +17,7 @@ Capable of quickly learning and mastering new technologies while working in both
 const michael = {
   pronouns: [He, Him],
   focus: [Python, Django, Javascript, React, TailwindCSS],
-  studying: [Github Actions, Docker, CICD Pipelines],
+  studying: [Dev-Ops, Github Actions, Docker, CI/CD Pipelines],
   communities: {
                     alumni: "General Assembly Global Members",
                     coHost: "Eggs The Podcast",
