@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/onticinc/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="LinkedIn Icon" width="75px" height="75px"></a>
 
-## Tech Stack:
+## Languages and Tools:
 
 <a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="40px" height="40px"></a>
 <a href="https://pandas.pydata.org/" title="pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="40px" height="40px"></a>
@@ -34,6 +34,23 @@
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="40px" height="40px"></a>
 
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   3 hrs 39 mins   ███████▒░░░░░░░░░░░░░░░░░   29.79 %
+MDX          3 hrs 22 mins   ███████░░░░░░░░░░░░░░░░░░   27.41 %
+JavaScript   2 hrs 48 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
+SCSS         1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+HTML         36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+JSON         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+```
+
+<!--END_SECTION:waka-->
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=onticinc&show_icons=true&theme=gotham" alt="onticinc" />
 
 
 <!--
