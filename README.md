@@ -8,11 +8,11 @@ Capable of quickly learning and mastering new technologies and working in both t
 const mike = {
   pronouns: "he" | "him",
   code: [Python, Django, Javascript, React, HTML, CSS],
-  tools: [Github Actions, Docker, CICD Pipelines],
-  techCommunities: {
+  Learning: [Github Actions, Docker, CICD Pipelines],
+  communities: {
                         member: "Frontend Mentor",
-                        Alumni: "General Assembly",
-                        Co-Host: "Eggs The Podcast"
+                        Alumni: "General Assembly Global Members",
+                        coHost_Partner: "Eggs The Podcast"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Python and Django"
 }
