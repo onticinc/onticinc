@@ -65,7 +65,7 @@ const mike = {
 
 <a href="https://www.linkedin.com/in/onticinc/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="LinkedIn Icon" width="75px" height="75px"></a>
 
-<h3> Cheatsheets </h3>
+## Cheatsheets:
      
 | URL      |
 | ----------- |
