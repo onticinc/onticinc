@@ -87,7 +87,7 @@ const michael = {
 <hr />
 
 
-## Cheatsheets:
+<!-- ## Cheatsheets:
      
 | URL      |
 | ----------- |
@@ -102,7 +102,7 @@ const michael = {
 | [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet)                                  |
 | [Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet)                                            |
 | [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)                                          |
-
+ -->
 <!--
 **onticinc/onticinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
