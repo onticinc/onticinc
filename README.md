@@ -5,10 +5,8 @@
 
 <hr />
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1CF715&lines=Full+Stack+Software+Engineer;Audio+Engineer;Co-Host+%2F+Partner+at+Eggs+The+Podcast;Lifelong+Learner)](https://git.io/typing-svg)
-</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1CF715&lines=Full+Stack+Software+Engineer;Audio+Engineer;Co-Host+%2F+Partner+at+Eggs+The+Podcast;Lifelong+Learner)](https://git.io/typing-svg)
 
 <hr />
 
