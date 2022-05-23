@@ -82,7 +82,7 @@ const michael = {
 
 <hr />
 
-<img src="https://github-readme-stats.vercel.app/api?username=onticinc&show_icons=true&theme=dark" alt="onticinc" />
+<img src="https://github-readme-stats.vercel.app/api?username=onticinc&show_icons=true&theme=gruvbox" alt="onticinc" />
 
 
 <!-- ## Cheatsheets:
