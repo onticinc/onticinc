@@ -79,6 +79,9 @@ const michael = {
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=onticinc&custom_title=Michael's%20activity%20graph&theme=react-dark&hide_border=false)](https://github.com/onticinc/github-readme-activity-graph)
 
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <hr />
 
 <img src="https://github-readme-stats.vercel.app/api?username=onticinc&show_icons=true&theme=tokyonight" alt="onticinc" />
