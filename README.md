@@ -1,11 +1,11 @@
-<h3 align="center">
+<h2 align="center">
   Welcome to my Github profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-</h3>
+</h2>
 
 <hr />
 
-## About Me:
+## 🥴 About Me:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=6000&width=600&lines=Full+Stack+Web+and+App+Developer;Co-Host+%7C+Partner+%40+%22Eggs+The+Podcast%22++++;Audio+Engineer+%7C+Video+Editor;Lifelong+Learner+%7C+Educator;Entertainer+%7C+Promoter+)](https://git.io/typing-svg)
 
@@ -29,7 +29,7 @@ const michael = {
 
 <hr />
 
-## Websites | LinkedIn:
+## 🕸 Websites | LinkedIn:
 
 #### www.m-smith.info 
 
@@ -44,7 +44,7 @@ const michael = {
 
 <hr />
 
-## Languages and Tools:
+## 🛠 Languages and Tools:
 
 <a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="40px" height="40px"></a>
 <a href="https://pandas.pydata.org/" title="pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="40px" height="40px"></a>
@@ -75,7 +75,7 @@ const michael = {
 <hr />
 
 
-## 📈 My github stats:
+## 📈 Github stats:
 
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=onticinc&custom_title=Michael's%20activity%20graph&theme=react-dark&hide_border=false)](https://github.com/onticinc/github-readme-activity-graph)
