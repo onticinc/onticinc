@@ -13,7 +13,6 @@ Innovative Software Engineer with experience developing full stack applications 
 
 Capable of quickly learning and mastering new technologies while working in both team and self-directed settings. Adept at designing and building applications with usability and high performance in mind. 
 
-<a href="https://generalassemb.ly/education/software-engineering-immersive/seattle" style="vertical-allign:top"><img src="https://github.com/chenmichael2/chenmichael2/blob/main/general-assembly_logo.png" style="width:30px; padding-right:20px;"> Graduated from General Assembly's full stack software immersive program. </a>
 
 ```javascript
 const michael = {
@@ -28,6 +27,10 @@ const michael = {
   challenge: "I am doing the #100DaysOfCode challenge focused on Python and Django",
 }
 ```
+
+<a href="https://generalassemb.ly/education/software-engineering-immersive/seattle" style="vertical-allign:top"><img src="https://github.com/chenmichael2/chenmichael2/blob/main/general-assembly_logo.png" style="width:30px; padding-right:20px;"> Graduated from General Assembly's full stack software immersive program. </a>
+
+
 
 <hr />
 
