@@ -13,7 +13,7 @@ Innovative Software Engineer with experience developing full stack applications 
 
 Capable of quickly learning and mastering new technologies while working in both team and self-directed settings. Adept at designing and building applications with usability and high performance in mind. 
 
-Graduated from General Assembly's full stack software program. <a href="https://generalassemb.ly/education/software-engineering-immersive/seattle"><img src="https://github.com/chenmichael2/chenmichael2/blob/main/general-assembly_logo.png" style="width:20px"></a>
+<a href="https://generalassemb.ly/education/software-engineering-immersive/seattle"><img src="https://github.com/chenmichael2/chenmichael2/blob/main/general-assembly_logo.png" style="width:25px;"></a> - Graduated from General Assembly's full stack software program. 
 
 ```javascript
 const michael = {
