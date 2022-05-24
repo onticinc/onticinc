@@ -28,7 +28,7 @@ const michael = {
 }
 ```
 
-<a href="https://generalassemb.ly/education/software-engineering-immersive/seattle" style="vertical-allign:top"><img src="https://github.com/chenmichael2/chenmichael2/blob/main/general-assembly_logo.png" style="width:30px; padding-right:20px;"> Graduated from General Assembly's full stack immersive program. </a>
+<a href="https://generalassemb.ly/education/software-engineering-immersive/seattle" style="vertical-allign:top"><img src="https://github.com/onticinc/onticinc/blob/main/general-assembly_logo.png" style="width:30px; padding-right:20px;"> Graduated from General Assembly's full stack immersive program. </a>
 
 <br />
 
