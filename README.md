@@ -35,9 +35,9 @@ const michael = {
 
 #### www.eggscast.com
 
-#### www.audiostarinc.com
+<!-- #### www.audiostarinc.com -->
 
-#### www.djontic.com 
+<!-- #### www.djontic.com  -->
 
 <a href="https://www.linkedin.com/in/onticinc/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="LinkedIn Icon" width="75px" height="75px"></a>
 
