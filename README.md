@@ -95,7 +95,7 @@ const michael = {
 <hr />
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-#### 🙄 Random Quote generator.
+🙄 Pulled from a random quote generator. 
 <!-- ## Cheatsheets:
      
 | URL      |
