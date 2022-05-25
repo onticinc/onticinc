@@ -27,9 +27,11 @@ const michael = {
   challenge: "I am doing the #100DaysOfCode challenge focused on Python and Django",
 }
 ```
-<span style="allign:center">
+<br />
+
+<div style="align:center">
  
-<img src="https://github.com/onticinc/onticinc/blob/main/general-assembly_logo.png" style="width:30px;">
+<img src="https://github.com/onticinc/onticinc/blob/main/general-assembly_logo.png" style="width:50px;">
   
 <br />  
 <img src="https://github.com/onticinc/onticinc/blob/main/general_assembly_certificate.png" style="width:300px;">
@@ -38,7 +40,7 @@ const michael = {
 
 <a href="https://generalassemb.ly/education/software-engineering-immersive/seattle"> Graduated from the General Assembly full stack immersive program.</a>
 
-</span>
+</div>
 
 
 <hr />
