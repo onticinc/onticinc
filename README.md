@@ -30,19 +30,13 @@ const michael = {
 <br />
 
 <p align="center">
-  <img src="https://github.com/onticinc/onticinc/blob/main/general-assembly_logo.png" style="width:50px;">
-</p> 
-  
-<br />  
-
-<p align="center">
 <img src="https://github.com/onticinc/onticinc/blob/main/general_assembly_certificate.png" style="width:300px;">
 </p>
 
-<br />
 <p align="center">
+  <img src="https://github.com/onticinc/onticinc/blob/main/general-assembly_logo.png" style="width:50px;">
   <a href="https://generalassemb.ly/education/software-engineering-immersive/seattle"> Graduated from the General Assembly full stack immersive program.</a>
-</p>
+</p> 
 
 
 <hr />
