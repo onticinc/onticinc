@@ -28,9 +28,13 @@ const michael = {
 }
 ```
 
-<a href="https://generalassemb.ly/education/software-engineering-immersive/seattle"><img src="https://github.com/onticinc/onticinc/blob/main/general-assembly_logo.png" style="width:30px;"> Graduated from the General Assembly full stack immersive program.</a>
-<br />
 <img src="https://github.com/onticinc/onticinc/blob/main/general_assembly_certificate.png" style="width:300px;">
+
+<br />
+
+<a href="https://generalassemb.ly/education/software-engineering-immersive/seattle"><img src="https://github.com/onticinc/onticinc/blob/main/general-assembly_logo.png" style="width:30px;"> Graduated from the General Assembly full stack immersive program.</a>
+
+
 
 <hr />
 
