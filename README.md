@@ -29,7 +29,7 @@ const michael = {
 ```
 <br />
 
-<div style="align:center">
+<p style="align:center">
  
 <img src="https://github.com/onticinc/onticinc/blob/main/general-assembly_logo.png" style="width:50px;">
   
@@ -40,7 +40,7 @@ const michael = {
 
 <a href="https://generalassemb.ly/education/software-engineering-immersive/seattle"> Graduated from the General Assembly full stack immersive program.</a>
 
-</div>
+</p>
 
 
 <hr />
