@@ -90,6 +90,10 @@ const michael = {
 
 <hr />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=onticinc&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<hr /> 
+
 <img src="https://github-readme-stats.vercel.app/api?username=onticinc&show_icons=true&theme=tokyonight" alt="onticinc" />
 
 
