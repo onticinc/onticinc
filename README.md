@@ -40,7 +40,7 @@ const michael = {
 
 ## 🕸 Websites | LinkedIn:
 
-#### www.m-smith.info 
+#### <a href="http://www.m-smith.info" target="_blank">www.m-smith.info</a> 
 
 #### www.eggscast.com
 
