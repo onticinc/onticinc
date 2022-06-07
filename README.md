@@ -33,7 +33,7 @@ const michael = {
 <img src="https://github.com/onticinc/onticinc/blob/main/general_assembly_certificate.png" style="width:350px;">
 
 
-<a href="https://generalassemb.ly/education/software-engineering-immersive/seattle"> Graduated from the General Assembly full stack immersive program.</a>
+<a href="https://generalassemb.ly/education/software-engineering-immersive/seattle"> Graduate of the General Assembly full stack immersive program.</a>
 
 
 <hr />
