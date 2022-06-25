@@ -16,7 +16,6 @@ Capable of quickly learning and mastering new technologies while working in both
 
 ```javascript
 const michael = {
-  pronouns: [He, Him],
   focus: [Python, Django, Javascript, React, TailwindCSS],
   studying: [Dev Ops, Github Actions, Ci Cd Pipelines, Docker, Linode, Linux],
   communities: {
