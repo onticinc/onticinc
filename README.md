@@ -16,14 +16,13 @@ Capable of quickly learning and mastering new technologies while working in both
 
 ```javascript
 const michael = {
-  focus: [Python, Django, Javascript, React, TailwindCSS],
+  focus: [Python, Django, React, ReactJS, Javascript, TailwindCSS],
   studying: [Dev Ops, Github Actions, Ci Cd Pipelines, Docker, Linode, Linux],
   communities: {
                     alumni: "General Assembly Global Members",
                     coHost: "Eggs The Podcast",
                     member: "Frontend Mentor"
                 },
-  challenge: "I am doing the #100DaysOfCode challenge focused on Python and Django",
 }
 ```
 <br />
