@@ -15,8 +15,8 @@ Capable of quickly learning and mastering new technologies while working in both
 
 
 ```javascript
-const michael = {
-  focus: [Python, Django, React, ReactJS, Javascript, TailwindCSS],
+const mike = {
+  focus: [Python, Django, NextJS, React, Javascript, TailwindCSS],
   studying: [Dev Ops, Github Actions, Ci Cd Pipelines, Docker, Linode, Linux],
   communities: {
                     alumni: "General Assembly Global Members",
