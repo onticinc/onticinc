@@ -7,7 +7,7 @@
 
 ## 🥴 About Me:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=6000&width=600&lines=Full+Stack+Web+and+App+Developer;Co-Host+%7C+Partner+%40+%22Eggs+The+Podcast%22++++;Audio+Engineer+%7C+Video+Editor;Lifelong+Learner+%7C+Educator;Entertainer+%7C+Promoter+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=6000&width=600&lines=Full+Stack+Developer;Co-Host+%7C+Partner+%40+%22Eggs+The+Podcast%22++++;Audio+Engineer+%7C+Video+Editor;Lifelong+Learner+%7C+Educator;Entertainer+%7C+Promoter+)](https://git.io/typing-svg)
 
 Innovative Software Engineer with experience developing full stack applications and websites. 
 
@@ -27,8 +27,8 @@ const mike = {
 ```
 <br />
 
-
-<img src="https://github.com/onticinc/onticinc/blob/main/general_assembly_certificate.png" style="width:350px;">
+<!-- 
+<img src="https://github.com/onticinc/onticinc/blob/main/general_assembly_certificate.png" style="width:350px;"> -->
 
 
 <a href="https://generalassemb.ly/education/software-engineering-immersive/seattle"> Graduate of the General Assembly full stack immersive program.</a>
