@@ -13,6 +13,7 @@ Innovative Software Engineer with experience developing full stack applications 
 
 Capable of quickly learning and mastering new technologies while working in both team and self-directed settings. Adept at designing and building applications with usability and high performance in mind. 
 
+<!-- 
 
 ```javascript
 const mike = {
@@ -26,6 +27,8 @@ const mike = {
 }
 ```
 <br />
+
+-->
 
 <!-- 
 <img src="https://github.com/onticinc/onticinc/blob/main/general_assembly_certificate.png" style="width:350px;"> -->
