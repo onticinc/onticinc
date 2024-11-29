@@ -21,17 +21,15 @@ const mike = {
 
 <hr />
 
-## 🕸 Websites | LinkedIn:
+## 🕸 Websites:
 
 #### <a href="http://www.m-smith.info" target="_blank">www.m-smith.info</a> 
 
-#### www.eggscast.com
+#### <a href="http://www.m-smith.info" target="_blank">www.eggscast.com</a> 
 
-#### www.audiostarinc.com
+#### <a href="http://www.m-smith.info" target="_blank">www.audiostarinc.com</a> 
 
-#### www.djontic.com  
-
-<a href="https://www.linkedin.com/in/onticinc/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="LinkedIn Icon" width="75px" height="75px"></a>
+#### <a href="http://www.m-smith.info" target="_blank">www.djontic.com</a>  
 
 
 <hr />
