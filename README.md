@@ -8,12 +8,6 @@
 
 ## 🥴 About Me:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=6000&width=600&lines=Full+Stack+Developer;Co-Host+%7C+Partner+%40+%22Eggs+The+Podcast%22++++;Audio+Engineer+%7C+Video+Editor;Lifelong+Learner+%7C+Educator;Entertainer+%7C+Promoter+)](https://git.io/typing-svg)
-
-Innovative software developer with experience building full stack applications and websites. 
-
-Capable of quickly learning and mastering new technologies while working in both team and self-directed settings. Adept at designing and building applications with usability and high performance in mind. 
-
 <!-- 
 
 ```javascript
